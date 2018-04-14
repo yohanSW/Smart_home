@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.3.0_9eca5dd234d1398d7eaf357d744e389eb78cee87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.3.0_6ecb2b5406583ed95f253ec28c9bf8aabc90d59e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-7.3.0_ff2be2bf4777737243bd5f38ec7799684b88a4d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_5feb2e3f42d5f85568ebb714db61512486a03b36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-7.3.0_fe1e6f0278e8ceaf9d244f7ab26f6f2f8d2e408c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.3.0_edc51fbde457b641015197f288218e76ab4b7947.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-7.3.0_577ba1343b383991c434d8834d2b937d27b46cf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.3.0_ea11184b28d7a042788216cb44e62dc2845b2a95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.3.0_504f4a1c84268c1afca215e3c624f3ca51dbaf1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_2d92f8e653569eeae4a4e382ee9a8da8534b5de1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-7.3.0_75046574164891c845a4322d85c5dce1f31ccb82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-7.3.0_1908cd88a848f514fe00592fcf7778406ee60a27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_27d3df40bbef1dcac67d5c650690a86de4195d20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-7.3.0_4b9046e41be1c79befb51b251c9c4120a4f57d49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appstate-7.3.0_9fcdd25c8388fdabd73373cde670f365967e7a87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.3.0_83086e6235b41e555a9e68de5d98daaeb0c77d90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-7.3.0_6976b12645f4d9b974bbeea21d2e5b2f2b26c81a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.3.0_ac44e44367f86f66295d96ebf7cc77982b97c958.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_09ee8871f8f939e00c22d1429d69dc6abdd7d550.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-7.3.0_55113e4e3ac2080e7cbc034931495c95f5cbb0b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.3.0_347b4214701e81ff2df0777cf2d945f83b4b1a7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_481904e39cea59f928ef362e9116392410779ab3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.3.0_b807ea1c01b4f018d6274168d06c5103134b37ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-7.3.0_75c6d22b74fccd2444b3716d7d58efe26a80f875.jar" />
+    </item>
+    <item
+        jar="C:\Users\Han\Desktop\GPS2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Han\Desktop\GPS2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_31968f3ecf5e54949a3a9e390223464a3d40d3b6.jar" />
+    </item>
+
+</items>

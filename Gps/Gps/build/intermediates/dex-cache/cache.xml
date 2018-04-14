@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-7.3.0_119f75ac563b9fd3e86e0bcdf3f1703269a0cc0a.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-7.3.0_251c58edfbb732e95004db13e6f4fe2f872febe1.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-7.3.0_dfeafca5abc273339a28a7d86521ae0ad488e3cd.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.3.0_c2be9d158364e10d94f0796d2cb231062397b0d9.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-7.3.0_3eac2037470fcb24b18c2a7321fe94efe7974fd2.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_32c8a9d56534c914b26b11e808500c4a8063a996.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_210b4bdc16e4f7849a148180bf571350c52fdafd.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-7.3.0_56a55ebc10634ae510d2358ddd0b5b70d26d0b1a.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-7.3.0_30c27d04853ff1e91e0a664759f7b42cd542c356.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-7.3.0_9b1c2308b7c73b8c7ae2ce1be84e837d2cc2a4a0.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-7.3.0_36f7b707bdba6588499888ba24083f12d7ce6d36.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-7.3.0_570ed7a6f14f02c9be8ec76eba3269841f2fc38f.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appstate-7.3.0_152a28f9403d3ec559a3ce7490cbee541edefd85.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_1f71456e885d9250c97e5abe14dd6dd6b67b2571.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_248f730916fb210ba2e6b67d387a28dafd2c97a0.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.3.0_9c8251849686593156e3864fc423842f0d38cd99.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-7.3.0_9c5d21b3698d7c40513e53da040f5468caac1424.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-7.3.0_bb22896416cb24114eba4d751c573c8b01281dc7.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.3.0_338f2419a43c5f6985c9ad1a42acd2f0eceafc1a.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_6768a473c3f7b660e9b06a29c759697395ca9fb2.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_f00b2b6660aeb9893365ff0891c5c215d01eefe6.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-7.3.0_c209bb77c28a802d50ccf0b1386f802167d929e2.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.3.0_6b4b9d6f95baf2815e9f40c64f7593e0e3b2a617.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-7.3.0_903e84d2d745b5ff1cecf0f68d56b206dd4686db.jar" />
+    </item>
+    <item
+        jar="/Users/jacky/Downloads/Gps/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/jacky/Downloads/Gps/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.3.0_6a6a27b88fe599011d7bc6def8bf240371b625bb.jar" />
+    </item>
+
+</items>
